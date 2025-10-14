@@ -12,36 +12,40 @@ Your mission is to **select one task** that best matches your current skill leve
 Each task has been crafted for a specific experience tier.  
 Use the guide below to pick your ideal project:
 
-### 🟢 Beginner Level — Solidity Fundamentals
+### 🟢 Beginner Level — Solidity & Web Fundamentals
+
 **Recommended for:**  
-Students with **no prior experience** in web development or Solidity.
+- Students with **no prior experience** in web development or Solidity.
 
 **Focus:**  
-Core smart contract logic, Solidity syntax, events, mappings, and basic blockchain interaction using **Remix IDE**.
+- For Solidity beginners: Core smart contract logic, Solidity syntax, events, mappings, and basic blockchain interaction using **Remix IDE**.  
+- For Web beginners: Basic frontend development skills, component rendering, state handling, and simple interactivity using **React/Tailwind CSS**.
 
 **Goal:**  
-Understand how decentralized applications work at the **contract layer**, without worrying about frontend or deployment tools.
+- Solidity learners: Understand how decentralized applications work at the **contract layer**, without worrying about frontend or deployment tools.  
+- Web learners: Learn how to **build interactive UI components, handle user inputs, and display dynamic content**, preparing for future integration with blockchain.
+
 
 ### 🟡 Intermediate Level — Web + Blockchain Integration
 **Recommended for:**  
-Developers who have a **basic idea of web development** and are interested in exploring **how frontends connect with smart contracts**.
+- Developers who have a **basic idea of web development** and are interested in exploring **how frontends connect with smart contracts**.
 
 **Focus:**  
-Hands-on experience with **Hardhat, MetaMask, and IPFS**, while building meaningful decentralized applications.
+- Hands-on experience with **Hardhat, MetaMask, and IPFS**, while building meaningful decentralized applications.
 
 **Goal:**  
-Bridge the gap between **Solidity and Web3 UI**, understanding contract deployment, data retrieval, and interaction flows.
+- Bridge the gap between **Solidity and Web3 UI**, understanding contract deployment, data retrieval, and interaction flows.
 
 ### 🔴 Advanced Level — Full-Stack Web3 + AI Systems
 **Recommended for:**  
-Students who are comfortable with **both Web and Blockchain**, and want to explore **AI-powered DApps** or complex full-stack systems.
+- Students who are comfortable with **both Web and Blockchain**, and want to explore **AI-powered DApps** or complex full-stack systems.
 
 **Focus:**  
-End-to-end systems combining **AI models, decentralized storage, and blockchain smart contracts**.  
-These projects demand **good problem-solving**, API handling, and UI/UX design.
+- End-to-end systems combining **AI models, decentralized storage, and blockchain smart contracts**.  
+- These projects demand **good problem-solving**, API handling, and UI/UX design.
 
 **Goal:**  
-Showcase your ability to build a **production-level Web3 + AI application**.
+- Showcase your ability to build a **production-level Web3 + AI application**.
 
 
 ## ✅ Submission Guidelines
