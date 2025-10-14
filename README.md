@@ -348,7 +348,7 @@ Your submission will be judged on the following three key aspects:
 
 ##Intermediate:
 
-## 📖 Task 3 — “NFT-Based Event Ticketing DApp”
+## 📖 Task 4 — “NFT-Based Event Ticketing DApp”
 
  ### **Marks:** 50
  ### **Tools:** Hardhat, MetaMask, frontend (React/HTML/JS), ERC721,
@@ -451,7 +451,7 @@ This task must be done by:
    Is the Solidity code well-structured, secure, and efficient? Are access controls (e.g., only organizers can mint) properly implemented? 
 
 
-# 🧠 Task 4: The AI Study Buddy
+# 🧠 Task 5: The AI Study Buddy
 
  ### **Marks:** 50
  ### **Frontend**  React.js , 
@@ -559,7 +559,7 @@ Your submission will be judged on the following:
 ## Advanced: 
 
 
-## 📖 Task 5 — “Blockchain Story Registry with IPFS”
+## 📖 Task 6 — “Blockchain Story Registry with IPFS”
 
  ### **Marks:** 100
  ### **Tools:** Hardhat, MetaMask, frontend (React/HTML/JS), LLM/Gemini API, IPFS
