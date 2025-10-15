@@ -2,8 +2,8 @@
 
 This mainly consists of **6 tasks**, each designed to challenge you at different difficulty levels — from **beginner-friendly** Solidity practice to **advanced full-stack AI + blockchain integrations**.
 
-Your mission is to **select one task** that best matches your current skill level, complete it thoroughly, and submit it as a **public GitHub repository**.  
-> 💡 Remember: One complete, polished submission is always better than multiple half-finished attempts.
+Your mission is to **select atleast one task** that best matches your current skill level, complete it thoroughly, and submit it as a **public GitHub repository**. There are no restrictions on number of tasks but submitted tasks are expected to be completed.
+>  One complete, polished submission is always better than multiple half-finished attempts.
 
 ---
 
@@ -51,7 +51,7 @@ Use the guide below to pick your ideal project:
 ## ✅ Submission Guidelines
 
 1. Choose **only one task** based on your skill level. If you have enough time you can also attempt other tasks as well.
-   Completing one full project demonstrates better understanding than starting multiple.
+   Completing one full project demonstrates better understanding than starting multiple. If the optional tasks are not completed, still can be submitted.
 
 2. Ensure your **GitHub repository is public**.  
    - Include clear commit history.  
@@ -66,11 +66,10 @@ Use the guide below to pick your ideal project:
 - Plan your approach — architecture, data flow, and component structure.  
 - Prioritize **completeness and clarity** over adding unnecessary features.  
 
-> 💬 “Focus on building something that works beautifully — not just something that barely runs.”
-> - For any doubts, feel free to contact us,  
-  > M.Lakshya - 9019840753  
-  > Anirudh S - 7349063909  
-  > Naman - 9257857284
+## For any doubts, feel free to contact us -   
+ M.Lakshya - 9019840753  
+ Anirudh S - 7349063909  
+ Naman - 9257857284
 
 ---
 
